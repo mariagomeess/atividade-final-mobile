@@ -35,7 +35,7 @@ Se você não está na final de **APS**, as operações de CRUD são simuladas c
 
 ## 🛠️ Como Rodar o Projeto
 
-### 1. Clonar o Repositório
+1. Clonar o Repositório
 
 Clone o repositório para sua máquina local:
 
