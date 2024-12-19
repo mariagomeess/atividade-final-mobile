@@ -62,5 +62,6 @@ Execute o aplicativo no dispositivo ou emulador.
 Realize operações de CRUD através das telas fornecidas.
 
 👤 Autor
+
 Maria Vitória Gomes de Lima
 
