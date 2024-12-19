@@ -43,7 +43,7 @@ Clone o repositório para sua máquina local:
 git clone https://github.com/mariagomeess/atividade-frontend-mobile.git
 
 2. Instalar Dependências
-3. 
+
 Acesse o diretório do projeto e instale as dependências:
 
 cd estoque-frontend
